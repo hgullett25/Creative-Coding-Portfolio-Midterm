@@ -1,0 +1,48 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+.btn-group button {
+  top: 200px;
+  right: 200 px;
+  background: black;
+  color: white;
+  font-family:"Helvetica", sans-serif;
+  font-size: medium;
+  font-weight:lighter;
+  text-transform: uppercase;
+  border: 1px solid whitesmoke;
+  padding: 30px;
+  cursor: pointer;
+  display:flex;
+  gap: 5;
+  float:left;
+}
+button{
+  background: black;
+  color: white;
+  font-family:"Helvetica", sans-serif;
+  font-size: medium;
+  font-weight:lighter;
+  text-transform: uppercase;
+  padding: 15px;
+  cursor: pointer;
+
+}
+h1{
+  text-align: center;
+  text-transform: uppercase;
+  font-family: Helvetica;
+}
+
+body {
+  margin: 0;
+  overflow: hidden;
+}
+canvas {
+  display: block;
+}
